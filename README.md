@@ -1,16 +1,15 @@
-## Hi there 👋
+# Learning Design Innovations
 
-<!--
-**LearningDesignInnovations/LearningDesignInnovations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Exploring the intersection of:
+- Human-centered learning design
+- AI-supported learning systems
+- Accessibility
+- Workforce capability development
+- Branching scenarios
+- Low-code/no-code learning workflows
 
-Here are some ideas to get you started:
+## Current Focus
+Building and experimenting with tools, frameworks, and learning experiences that support critical thinking, adaptive learning, and future-ready workforce development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+Instructional Design • AI in Education • Learning Systems • Accessibility • Scenario-Based Learning • Google Cloud Exploration
